@@ -23,7 +23,7 @@ Certifique-se de ter o [Git](https://git-scm.com/) instalado em seu computador. 
    Abra o terminal e digite o seguinte comando:
    ```bash
    git clone https://github.com/seu_usuario/DiverteKids.git
-Substitua seu_usuario pelo seu nome de usuário no GitHub.
+   Substitua seu_usuario pelo seu nome de usuário no GitHub.
 
 Navegue até a pasta do projeto:
 Após o repositório ser clonado, entre na pasta do projeto:
