@@ -6,7 +6,7 @@ Este repositório contém as imagens utilizadas dentro do aplicativo, incluindo 
 
 A logo do aplicativo é a identidade visual principal que representa a marca e é usada em diversas partes da interface, incluindo telas de login, cabeçalhos e ícones.
 
-![Logo do Aplicativo](caminho/para/logo.png)
+![Logo do Aplicativo](../Icons/c9d7e721-dd15-45c8-8628-bc6ec3b1b735.jpg)
 
 ## Outras Imagens Usadas no App
 
