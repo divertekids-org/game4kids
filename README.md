@@ -25,7 +25,26 @@ Certifique-se de ter o [Git](https://git-scm.com/) instalado em seu computador. 
    git clone https://github.com/seu_usuario/DiverteKids.git
   Substitua seu_usuario pelo seu nome de usuário no GitHub.
 
-Navegue até a pasta do projeto:
+2. Navegue até a pasta do projeto:
 Após o repositório ser clonado, entre na pasta do projeto:
    ```bash
-cd DiverteKids
+   cd DiverteKids
+   
+3. Instale as dependências:
+Caso o projeto tenha dependências a serem instaladas, use o comando adequado (dependendo da tecnologia usada):
+- Para projetos Node.js, use:
+  ```bash
+  npm install
+- Para projetos Python, use:
+  ```bash
+  pip install -r requirements.txt
+  
+4. Execute o Aplicativo:
+Após instalar as dependências, inicie o aplicativo com o comando correspondente:
+
+- Para projetos Node.js, use:
+  ```bash
+  npm start
+- Para projetos Python, execute:
+  ```bash
+  python main.py
