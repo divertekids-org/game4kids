@@ -13,7 +13,7 @@ A logo do aplicativo é a identidade visual principal que representa a marca e �
 Além da logo, o aplicativo utiliza várias outras imagens para melhorar a experiência do usuário e proporcionar uma interface visualmente atraente. Estas imagens são usadas como parte da interface de usuário, como ícones, fundos, banners, etc.
 
 ### Tabela IMC
-![Exemplo de Imagem 1](../Icons/IMC - tabela.jpg)
+![Exemplo de Imagem 1](../Icons/tabela.jpg)
 
 ### Cadeado da Tela de Login
 ![Exemplo de Imagem 2](../Icons/181534.png)
