@@ -27,9 +27,9 @@ Ser uma referência no mercado de aplicativos educativos para crianças, oferece
 
 A equipe do DiverteKids é formada por três membros dedicados e apaixonados pela educação e pelo desenvolvimento de soluções inovadoras:
 
-- **Membro 1**: [Nome do Integrante 1] - [Descrição do papel ou função]
-- **Membro 2**: [Nome do Integrante 2] - [Descrição do papel ou função]
-- **Membro 3**: [Nome do Integrante 3] - [Descrição do papel ou função]
+- **Membro 1**: [Thiago Sousa] - [Descrição do papel ou função]
+- **Membro 2**: [João Paulo] - [Descrição do papel ou função]
+- **Membro 3**: [Lucas Gabriel] - [Descrição do papel ou função]
 
 
 ## Como Baixar via Git
