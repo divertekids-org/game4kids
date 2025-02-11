@@ -9,6 +9,29 @@ O aplicativo **DiverteKids** oferece dois jogos divertidos e educativos:
 1. **Jogo da Velha** – Um clássico jogo de estratégia que ajuda a desenvolver o raciocínio lógico e habilidades de resolução de problemas.
 2. **Calculadora** – Uma ferramenta simples e prática para as crianças aprenderem os primeiros conceitos de matemática, como somar, subtrair, multiplicar e dividir, de uma maneira interativa e divertida.
 
+## Missão, Visão e Valores
+
+### Missão
+Proporcionar diversão e aprendizado para as crianças, criando experiências que estimulem o desenvolvimento cognitivo e a criatividade de forma acessível e educativa.
+
+### Visão
+Ser uma referência no mercado de aplicativos educativos para crianças, oferecendo soluções simples e eficazes que promovem o aprendizado de maneira divertida e interativa.
+
+### Valores
+- **Educação**: Compromisso com o aprendizado e o desenvolvimento das crianças.
+- **Diversão**: Proporcionar entretenimento saudável e divertido.
+- **Inovação**: Estar sempre em busca de novas formas de aprimorar a experiência dos usuários.
+- **Acessibilidade**: Tornar o aprendizado acessível a todas as crianças.
+
+## Definição da Equipe
+
+A equipe do DiverteKids é formada por três membros dedicados e apaixonados pela educação e pelo desenvolvimento de soluções inovadoras:
+
+- **Membro 1**: [Nome do Integrante 1] - [Descrição do papel ou função]
+- **Membro 2**: [Nome do Integrante 2] - [Descrição do papel ou função]
+- **Membro 3**: [Nome do Integrante 3] - [Descrição do papel ou função]
+
+
 ## Como Baixar via Git
 
 Para baixar o projeto diretamente do repositório usando `git clone`, siga os seguintes passos:
@@ -48,3 +71,4 @@ Após instalar as dependências, inicie o aplicativo com o comando correspondent
 - Para projetos Python, execute:
   ```bash
   python main.py
+
